@@ -2,7 +2,7 @@
 
 # dependencies
 frontend/node_modules
-voting-dapp/node_modules
+smart-contract/node_modules
 
 /.pnp
 .pnp.js
