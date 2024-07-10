@@ -13,3 +13,6 @@ StackEdit stores your files in your browser, which means all your files are auto
 ## To start dev server for fronend
 
     npm start
+  
+
+> Nodejs backend authentication mongo db is under developemnt
